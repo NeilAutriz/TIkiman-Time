@@ -1,0 +1,11 @@
+/* Color Palette:
+1C110A - Dark Brown
+7C7570 - Light Brown Gray
+E4D6A7 - Vanilla
+F3EBCF - Light Vanilla
+E9B44C - Yellow */
+
+:root {
+  font-family: 'Poppins';
+  src: url('src/assets/font/Poppins/Poppins-Regular.ttf') format('ttf');
+}
